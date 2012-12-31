@@ -6,6 +6,8 @@
 //  Copyright (c) 2012 fousa. All rights reserved.
 //
 
+#import <Foundation/Foundation.h>
+
 #import "Fix.h"
 
 @interface Waypoint : Fix

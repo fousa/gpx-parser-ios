@@ -6,6 +6,7 @@
 //  Copyright (c) 2012 fousa. All rights reserved.
 //
 
+#import <Foundation/Foundation.h>
 #import <MapKit/MapKit.h>
 
 @interface Track : NSObject
