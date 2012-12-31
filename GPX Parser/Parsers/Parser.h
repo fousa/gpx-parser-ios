@@ -6,6 +6,8 @@
 //  Copyright (c) 2012 10to1. All rights reserved.
 //
 
+#import <MapKit/MapKit.h>
+
 #import "GPX.h"
 
 #import "Fix.h"

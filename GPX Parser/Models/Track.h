@@ -6,6 +6,8 @@
 //  Copyright (c) 2012 fousa. All rights reserved.
 //
 
+#import <MapKit/MapKit.h>
+
 @interface Track : NSObject
 @property (nonatomic, strong) NSMutableArray *fixes;
 @property (nonatomic, strong) MKPolyline *path;

@@ -6,6 +6,8 @@
 //  Copyright (c) 2012 fousa. All rights reserved.
 //
 
+#import <MapKit/MapKit.h>
+
 @interface GPX : NSObject
 @property (nonatomic, strong) NSMutableArray *waypoints;
 @property (nonatomic, strong) NSMutableArray *tracks;
